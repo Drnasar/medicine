@@ -136,7 +136,7 @@ const renderProducts = (productsToShow) => {
             <p class="price">${product.price}</p>
             <div class="actions">
 
-            <a href="https://www.youtube.com/">
+            <a href="https://drnasar.github.io/myshop/">
               <button  class="btn">shop now</button>
               </a>
               <button class="rounded-btn">
@@ -220,4 +220,5 @@ document.addEventListener('DOMContentLoaded', () => {
   renderProducts(products);
   filterEventListener();
   heartEventListener();
+
 });

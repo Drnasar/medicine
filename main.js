@@ -9,7 +9,7 @@ const products = [
     description:
       'പുരുഷന്മാരിൽ ലിംഗത്തിന് ഉദ്ധാരണം ഉണ്ടാകാത്ത (Erectile dysfunction)ഉദ്ധാരണക്കുറവിനും  ശീഘ്രസ്ഖലനം Premature Ejaculation പുരുഷന്മാരിലെയും സ്‌ത്രീകളിലെയും രതിമൂർച്ഛ (Orgasm) ഇല്ലായ്മ ബീജകുറവ് മൂത്രവാർച്ച അറിയാതെ മൂത്രം തുള്ളിയായി പോകുന്ന അവസ്ഥ   ലൈംഗികമായ എല്ലാ പ്രശ്നങ്ങൾക്കും പാർശഫലങ്ങൾ ഒന്നും തന്നെ ഇല്ലാത്ത ഇലക്ട്രോ ഹോമിയോ ഹെർബൽ മെഡിസിൻ Supper power  Drops & Tablets ₹ 399 രൂപ ഇപ്പോൾ തന്നെ ഓർഡർ ചെയ്യൂ ദാമ്പത്യ ജീവിതം മെച്ചപ്പെടുത്തൂ കൂടുതൽ വിവരങ്ങൾക്കും ഓർഡർ ചെയ്യാനും വിളിക്കൂ',
     price: '₹399',
-    img: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOQQJgY71c_5tow_RGrTos5U92c1ZJ6MWIMnKKpoGg5PqadsK-FTld1KBffNb6NTU8EjRQ2hvNIs2u_FF_yec_4QUFZTo8_aM9BPRdLDLFJvZ6pUXGgIOksLZW1Zq6PHxWNBsozqBAC2x2_ptUZc50_4vEZO-dWH4CbJGw1yF2gyUHd9iPLDcu66ijY3M/s1600/iphone-phone.png',
+    img: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrECJ_eBV2XQvFPKkzBmqUDjF0DxRtyCI0f3XdSA15IOZsYpRDLJrZYcS3o2qVer5-HapiTTTHPzdeyK3CtKIusRRt2JvEMcaHS7aXOu_LrabYYK0Ock66OaN2Ar41CpUDYc9hKHgox1Y5d9H-QwNowDrfCu1cDN0Eh_FYxyXwgdTn-cVuWF42cFxm2IU/s1600/super%20bbb.JPG',
   },
   {
     id: 2,
@@ -18,7 +18,7 @@ const products = [
     description:
       'Excellent for all sexual diseases Supported by thousands.',
     price: '₹399',
-    img: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOQQJgY71c_5tow_RGrTos5U92c1ZJ6MWIMnKKpoGg5PqadsK-FTld1KBffNb6NTU8EjRQ2hvNIs2u_FF_yec_4QUFZTo8_aM9BPRdLDLFJvZ6pUXGgIOksLZW1Zq6PHxWNBsozqBAC2x2_ptUZc50_4vEZO-dWH4CbJGw1yF2gyUHd9iPLDcu66ijY3M/s1600/iphone-phone.png',
+    img: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrECJ_eBV2XQvFPKkzBmqUDjF0DxRtyCI0f3XdSA15IOZsYpRDLJrZYcS3o2qVer5-HapiTTTHPzdeyK3CtKIusRRt2JvEMcaHS7aXOu_LrabYYK0Ock66OaN2Ar41CpUDYc9hKHgox1Y5d9H-QwNowDrfCu1cDN0Eh_FYxyXwgdTn-cVuWF42cFxm2IU/s1600/super%20bbb.JPG',
   },
   
   {
@@ -222,3 +222,4 @@ document.addEventListener('DOMContentLoaded', () => {
   heartEventListener();
 
 });
+

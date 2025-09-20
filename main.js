@@ -92,7 +92,7 @@ const products = [
     description:
       ' Specific for all type of allergy, Sneezing, Nasal Oozing & Sinu.',
     price: '₹110',
-    img: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrECJ_eBV2XQvFPKkzBmqUDjF0DxRtyCI0f3XdSA15IOZsYpRDLJrZYcS3o2qVer5-HapiTTTHPzdeyK3CtKIusRRt2JvEMcaHS7aXOu_LrabYYK0Ock66OaN2Ar41CpUDYc9hKHgox1Y5d9H-QwNowDrfCu1cDN0Eh_FYxyXwgdTn-cVuWF42cFxm2IU/s1600/super%20bbb.JPG',
+    img: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAP54PxjlD0_xAQb1YeiE60iRmQiyf9yGgms8dGaU4MZY5kBP0-1aagBwsKqEiG_oloZvfyCZhpWoLeS_BIdtSdfU4wEvmcqhUH_9pMV2fJwSlChDdrsLZeVZiNkpOApzhWKGylaJrYBZETLiACasjotEh23YEFo_MmIG7qIcb6vb8Jx1jfUuKkSfbdR0/s1600/antibbb.JPG',
   },
 ];
 
@@ -222,5 +222,6 @@ document.addEventListener('DOMContentLoaded', () => {
   heartEventListener();
 
 });
+
 
 
